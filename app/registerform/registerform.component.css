@@ -1,0 +1,19 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+}
+.btn{
+   
+    background-color:black;
+    color:white;
+    margin-left: 214px;
+}
+.btn:hover{
+    color:red;
+   
+}
+.error{
+    color:red;
+    
+}
